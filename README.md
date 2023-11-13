@@ -1,4 +1,5 @@
 ## Est-ce qu'on commence un truc maintenant ?
 - https://estcequoncommenceuntrucmaintenant.fr/
-- Year: 2021
-- Tech: html
+- year: 2021
+- tech: html
+- deployment: netlify with push hook
